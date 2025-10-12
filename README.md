@@ -9,7 +9,7 @@
 
   ### Featured Work
 
-  **[textarttools.com](https://textarttools.com) — [token visualizer](https://textarttools.com/Tokenviz) **
+  [textarttools.com](https://textarttools.com) — [token visualizer](https://textarttools.com/Tokenviz)
 
   ---
 
