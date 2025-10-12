@@ -9,10 +9,7 @@
 
   ### Featured Work
 
-  **[textarttools.com](https://textarttools.com) — A collection of text
-  manipulation and visualization tools, including a DistilBERT transformer
-  encoder [token visualizer](https://textarttools.com/Tokenviz) that demonstrates how tokens are processed
-  through each layer of the model.**
+  **[textarttools.com](https://textarttools.com) — [token visualizer](https://textarttools.com/Tokenviz) **
 
   ---
 
