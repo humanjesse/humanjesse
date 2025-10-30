@@ -1,7 +1,7 @@
   <div align="center">
 
   **Retooling as a developer with a strong foundation in technical
-  problem-solving from 6 years as a master bicycle mechanic. Self-taught in
+  problem-solving from 5 years as a master bicycle mechanic. Self-taught in
   full-stack, currently building web applications and
   exploring machine learning.**
   
